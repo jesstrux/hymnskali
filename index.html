@@ -7,7 +7,7 @@
 <body>
 	<script src="jquery.min.js"></script>
 	<script>
-		const base = "gs://hymnskali.appspot.com/hyms/";
+		const base = "hymns/";
 		var songnames = new Array();
 
 		$.get('hymns.json', function(data) {
@@ -18,7 +18,7 @@
 			$.each(hymns, function(index, hymn) {
 				// songnames.push(hymn.src);
 				// console.log(el);
-				var a = $('<a style="display:block"></a>');
+				var a = $('<a style="display:block" download></a>');
 				a.attr('href', base+hymn.src).text(hymn.name);
 				$('body').append(a);
 			});
