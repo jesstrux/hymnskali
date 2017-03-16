@@ -1,28 +1,28 @@
 [
 	{
 	  "hymn_code":"513132165",
-	  "name": "Yote namtolea Yesu",
+	  "title": "Yote namtolea Yesu",
 	  "composer": "Winfield Scott Weeden",
 	  "author": "Judson W. Van de Venter",
 	  "src":"all_to_jesus_i_surrender.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Yote namtolea Yesu,\nNampa moyo wote,\nNitampenda siku zote,\nNamwandama kila saa."
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Yote kwa Yesu,\nYote kwa Yesu,\nYote kwako, Ee Mwokozi,\nNatoa sasa."
 	  	},
 	  	{
 	  		"type": "verse",
-	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
+	  		"content" : "Yote namtolea Yesu,\nNainamia pake;\nNimeacha na anasa,\nKwako Yesu nipokee"
 	  	}
 	  ]
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Katika neema ya Yesu",
+	  "title": "Katika neema ya Yesu",
 	  "composer": "Traditional American Melody",
 	  "author": "John Newton",
 	  "src":"amazing_grace.mp3",
@@ -33,7 +33,7 @@
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Katika neema ya Yesu City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
 	  	},
 	  	{
 	  		"type": "verse",
@@ -43,28 +43,28 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name" : "Kwa Kalvari",
+	  "title" : "Kwa Kalvari",
 	  "composer": "Daniel Brink Towner",
 	  "author": "William Reed Newell",
 	  "src":"at_calvary.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Muda mwingi nilipotea,\nSikufahamu msalaba,\nWala aliyenifilia,\nMsalabani."
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Rehema bure na neema,\nSamaha nalo nilipewa,\nNdipo aliponifungua\nMsalabani. "
 	  	},
 	  	{
 	  		"type": "verse",
-	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
+	  		"content" : "Kwa neno lake Bwana Mungu,\nNilijiona mimi mwovu,\nNikageuka na kutubu,\nMsalabani."
 	  	}
 	  ]
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name":"Ndiyo dhamana",
+	  "title":"Ndiyo dhamana",
 	  "composer": "Phoebe Palmer Knapp",
 	  "author": "Fanny Jane Crosby",
 	  "src":"blessed_assurance.mp3",
@@ -75,7 +75,7 @@
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Ndiyo dhamana City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
 	  	},
 	  	{
 	  		"type": "verse",
@@ -85,35 +85,39 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Wamwendea Yesu kwa kusafiwa",
+	  "title": "Wamwendea Yesu kwa kusafiwa",
 	  "composer": "Elisha Albright Hoffman",
 	  "author": "Elisha Albright Hoffman",
 	  "src":"have_you_been_to_jesus_for_the_cleansing_power.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Wamwendea Yesu kwa kusafiwa,\nNa kuoshwa kwa damu ya kondoo?\nJe, neema yake umemwagiwa?\nUmeoshwa kwa damu ya kondoo?"
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Kuoshwa, kwa damu,\nItutakasayo ya kondoo,\nZiwe safi nguo nyeupe mno,\nUmeoshwa kwa damu ya kondoo?"
 	  	},
 	  	{
 	  		"type": "verse",
-	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
-	  	}
+	  		"content" : "Wamwandama daima Mkombozi,\nNa kuoshwa kwa damu ya kondoo?\nYako kwa Msulubiwa makazi,\nUmeoshwa kwa damu ya kondoo?"
+	  	},
+	  	{
+	  		"type": "chorus",
+	  		"content" : "Kuoshwa, kwa damu,\nItutakasayo ya kondoo,\nZiwe safi nguo nyeupe mno,\nUmeoshwa kwa damu ya kondoo?"
+	  	},
 	  ]
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name" : "Nasikia kuitwa",
+	  "title" : "Nasikia kuitwa",
 	  "composer": "John Thomas Grape",
 	  "author": "Elvina Mable Reynolds Hall",
 	  "src":"i_hear_the_savior_say.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Nasikia kuitwa Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
 	  	},
 	  	{
 	  		"type": "chorus",
@@ -127,14 +131,14 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name" : "Mbele ninaendelea",
+	  "title" : "Mbele ninaendelea",
 	  "composer": "Charles Hutchinson Gabriel",
 	  "author": "Johnson Oatman Jr",
 	  "src":"im_pressing_on_the_upward_way.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Mbele ninaendelea Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
 	  	},
 	  	{
 	  		"type": "chorus",
@@ -148,7 +152,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Salama Moyoni",
+	  "title": "Salama Moyoni",
 	  "composer": "Philip Paul Bliss",
 	  "author": "Horatio Gates Spafford",
 	  "src":"it_is_well_with_my_soul.mp3",
@@ -159,7 +163,7 @@
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Salama Moyoni City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
 	  	},
 	  	{
 	  		"type": "verse",
@@ -169,49 +173,53 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Nitwae hivi nilivyo",
+	  "title": "Nitwae hivi nilivyo",
 	  "composer": "William Batchelder Bradbury",
 	  "author": "Charlotte Elliott",
 	  "src":"just_as_i_am.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
-	  	},
-	  	{
-	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Nitwae hivi nilivyo,\nUmemwaga damu yako,\nNawe ulivyoniita,\nBwana Yesu, naja, naja."
 	  	},
 	  	{
 	  		"type": "verse",
-	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
+	  		"content" : "Hivi nilivyo si langu,\nKujiosha roho yangu,\nNisamehe dhambi zangu,\nBwana Yesu, naja, naja."
+	  	},
+	  	{
+	  		"type": "verse",
+	  		"content" : "Hivi nilivyo sioni,\nKamwe furaha moyoni,\nDaima ni mashakani,\nBwana Yesu, naja, naja."
+	  	},
+	  	{
+	  		"type": "verse",
+	  		"content": "Hivi nilivyo kipofu,\nmaskini na mpungufu,\nWewe u mtimilifu,\nBwana Yesu, naja, naja."
 	  	}
 	  ]
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Bwana Mungu nashangaa kabisa",
+	  "title": "Bwana Mungu nashangaa kabisa",
 	  "composer": "Swedish Folk Melody",
 	  "author": "Witness Lee",
 	  "src":"my_father_god_when_on_thy_vast_creation.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Bwana Mungu nashangaa kabisa,\nNikifikiri jinsi ulivyo,\nNyota, ngurumo, vitu vyote pia,\nViumbavyo kwa uwezo wako."
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Roho yangu na ikuimbie,\nJinsi wewe ulivyo mkuu,\nRoho yangu na ikuimbie,\nJinsi wewe ulivyo mkuu."
 	  	},
 	  	{
 	  		"type": "verse",
-	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
+	  		"content" : "Nikitembea pote duniani,\nNdege huimba nawasikia,\nMilima hupendeza macho sana,\nUpepo nao nafurahia."
 	  	}
 	  ]
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Njoni tumuabudu",
+	  "title": "Njooni tumuabudu",
 	  "composer": "John Francis Wade's Cantus Diversi",
 	  "author": "John Francis Wade",
 	  "src":"o_come_all_ye_faithful.mp3",
@@ -222,7 +230,7 @@
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Njooni tumuabudu City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
 	  	},
 	  	{
 	  		"type": "verse",
@@ -232,35 +240,35 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Usinipite mwokozi",
+	  "title": "Usinipite mwokozi",
 	  "composer": "William Howard Doane",
 	  "author": "Fanny J Crosby",
 	  "src":"pass_me_not_o_gentle_savior.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Usinipite Mwokozi,\nUnisikie;\nUnapozuru wengine,\nUsinipite."
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Yesu, Yesu, unisikie,\nUnapozuru wengine,\nUsinipite."
 	  	},
 	  	{
 	  		"type": "verse",
-	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
+	  		"content" : "Kiti chako cha rehema,\nNakitazama;\nMagoti napiga pale,\nNisamehewe"
 	  	}
 	  ]
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Mwamba wenye imara",
+	  "title": "Mwamba wenye imara",
 	  "composer": "Thomas Hastings",
 	  "author": "Augustus Montague Toplady",
 	  "src":"rock_of_ages_cleft_for_me.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Mwamba wenye imara Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
 	  	},
 	  	{
 	  		"type": "chorus",
@@ -274,14 +282,14 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Mteteeni Yesu",
+	  "title": "Mteteeni Yesu",
 	  "composer": "George James Webb",
 	  "author": "George Duffield",
 	  "src":"stand_up_stand_up_for_jesus.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Mteteeni Yesu Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
 	  	},
 	  	{
 	  		"type": "chorus",
@@ -295,35 +303,35 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Kumtegemea Mwokozi",
+	  "title": "Kumtegemea Mwokozi",
 	  "composer": "William James Kirkpatrick",
 	  "author": "Louisa M. R. Stead",
 	  "src":"tis_so_sweet_to_trust_in_jesus.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Kumtegemea Mwokozi,\nKwangu tamu kabisa,\nKukubali neno lake,\nNina raha moyoni."
 	  	},
 	  	{
 	  		"type": "chorus",
-	  		"content" : "City uplink order-flow fluidity bicycle gang voodoo god sub-orbital katana 3D-printed engine skyscraper tube boy. Skyscraper motion tiger-team military-grade industrial grade neural lights shanty town. Smart-modem tank-traps render-farm concrete range-rover euro-pop stimulate otaku alcohol silent. Chrome convenience store assault nodality camera."
+	  		"content" : "Yesu,Yesu namwamini,\nNimemwona thabiti;\nYesu,Yesu,yu thamani,\nAhadi zake kweli. "
 	  	},
 	  	{
 	  		"type": "verse",
-	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
+	  		"content" : "Kumtegemea Mwokozi,\nKwangu tamu kabisa,\nKuamini damu yake,\nNimeoshwa kamili."
 	  	}
 	  ]
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Kuna nguvu ya ajabu",
+	  "title": "Kuna nguvu ya ajabu",
 	  "composer": "Lewis Ellis Jones",
 	  "author": "Lewis Ellis Jones",
 	  "src":"would_you_be_free_from_your_burden_of_sin.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Kuna nguvu ya ajabu Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
 	  	},
 	  	{
 	  		"type": "chorus",
@@ -337,14 +345,14 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Sioshwi dhambi zangu",
+	  "title": "Sioshwi dhambi zangu",
 	  "composer": "Robert Lowry",
 	  "author": "Robert Lowry",
 	  "src":"what_can_wash_away_my_sin.mp3",
 	  "lyrics" : [
 	  	{
 	  		"type": "verse",
-	  		"content" : "Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
+	  		"content" : "Sioshwi dhambi zangu Numinous fluidity kanji paranoid disposable nodal point dolphin meta-Kowloon-space order-flow apophenia. Girl table military-grade silent soul-delay j-pop narrative footage wristwatch DIY camera marketing drone. Sign realism network bicycle courier decay systemic denim soul-delay. Vehicle urban market boy weathered into refrigerator hacker computer pre-monofilament."
 	  	},
 	  	{
 	  		"type": "chorus",
@@ -353,6 +361,90 @@
 	  	{
 	  		"type": "verse",
 	  		"content" : "Skyscraper courier denim post-boy semiotics knife urban cyber-pistol sub-orbital faded. Nodal point math-Tokyo shrine bomb denim smart-weathered-ware pre-advert DIY boy San Francisco render-farm boat vehicle. Shoes RAF pistol render-farm neural human skyscraper geodesic rifle sprawl weathered plastic into jeans kanji crypto-silent. Range-rover lights pistol jeans drone plastic post. Wonton soup nano-girl Shibuya post-realism sunglasses plastic knife boat."
+	  	}
+	  ]
+	},
+	{
+	  "hymn_code":"332117615",
+	  "title": "Msalabani pa mwokozi",
+	  "composer": "Robert Lowry",
+	  "author": "John Hart Stockton",
+	  "src":"down_at_the_cross.mp3",
+	  "lyrics" : [
+	  	{
+	  		"type": "verse",
+	  		"content" : "Msalabani pa mwokozi,\nHapo niliomba upozi,\nAkaniokoa mpenzi,\nMwana wa Mungu."
+	  	},
+	  	{
+	  		"type": "chorus",
+	  		"content" : "Mwana wa Mungu,\nMwokozi wangu,\nAkaniokoa mpenzi,\nMwana wa Mungu."
+	  	},
+	  	{
+	  		"type": "verse",
+	  		"content" : "Chini ya mti msumbufu,\nNiliomba utakatifu,\nAlinikomboa kwa damu,\nMwana wa Mungu."
+	  	}
+	  ]
+	},
+	{
+	  "hymn_code":"5135332234442171",
+	  "title": "Cha kutumaini sina",
+	  "composer": "William Batchelder Bradbury",
+	  "author": "Edward Mote",
+	  "src":"my_hope_is_built_on_nothing_less.mp3",
+	  "lyrics" : [
+	  	{
+	  		"type": "verse",
+	  		"content" : "Cha kutumaini sina,\nIla damu yake Bwana,\nSina wema wa kutosha,\nDhambi zangu kuziosha."
+	  	},
+	  	{
+	  		"type": "chorus",
+	  		"content" : "Kwake Yesu nasimama,\nNdiye mwamba ni salama,\nNdiye mwamba ni salama,\nNdiye mwamba ni salama."
+	  	},
+	  	{
+	  		"type": "verse",
+	  		"content" : "Njia yangu iwe ndefu,\nYeye hunipa wokovu,\nMawimbi yakinipiga,\nNguvu ndizo nanga."
+	  	}
+	  ]
+	},
+	{
+	  "hymn_code":"132171112165",
+	  "title": "Nina haja nawe",
+	  "composer": "Robert Lowry",
+	  "author": "Annie Sherwood Hawks; Chorus by Robert Lowry ",
+	  "src":"i_need_thee_every_hour.mp3",
+	  "lyrics" : [
+	  	{
+	  		"type": "verse",
+	  		"content" : "Nina haja nawe\nKila saa;\nHawezi mwingine\nKunifaa."
+	  	},
+	  	{
+	  		"type": "chorus",
+	  		"content" : "Yesu nakuhitaji\nVivyo kila saa!\nNiwezeshe Mwokozi,\nNakujia."
+	  	},
+	  	{
+	  		"type": "verse",
+	  		"content" : "Nina haja nawe;\nKaa nami,\nNa maonjo haya,\nHayaumi."
+	  	}
+	  ]
+	},
+	{
+	  "hymn_code":"556531165131532",
+	  "title": "Yesu kwetu ni rafiki",
+	  "composer": "Charles Crozat Converse",
+	  "author": "Joseph Scriven",
+	  "src":"what_a_friend_we_have_in_jesus.mp3",
+	  "lyrics" : [
+	  	{
+	  		"type": "verse",
+	  		"content" : "Yesu kwetu ni rafiki,\nHaja zote hujua,\nTukiomba kwa Babaye\nMaombi  asikia,\nLakini twajikosesha,\nTwajitweka vibaya,\nKwamba tukimwomba Mungu,\nDua atasikia."
+	  	},
+	  	{
+	  		"type": "verse",
+	  		"content" : "Una dhiki na maonjo?\nUna mashaka pia?\nHaifai kufa moyo,\nDua atasikia.\nHakuna mwingine mwema\nWa kutuhurumia\nAtujua tu dhaifu,\nMaombi asikia."
+	  	},
+	  	{
+	  		"type": "verse",
+	  		"content" : "Je, hunazo hata nguvu,\nHuwezi  kwendelea?\nUjapodharauliwa,\nUjaporushwa pia,\nWatu wangekudharau,\nWapendao dunia\nHukwambata mikononi,\nDua atasikia."
 	  	}
 	  ]
 	}

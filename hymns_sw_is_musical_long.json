@@ -1,7 +1,7 @@
 [
 	{
 	  "hymn_code":"513132165",
-	  "name": "Yote namtolea Yesu",
+	  "title": "Yote namtolea Yesu",
 	  "composer": "Winfield Scott Weeden",
 	  "author": "Judson W. Van de Venter",
 	  "meter" : "8.6.8.6.",
@@ -25,7 +25,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Katika neema ya Yesu",
+	  "title": "Katika neema ya Yesu",
 	  "composer": "Traditional American Melody",
 	  "author": "John Newton",
 	  "meter" : "8.6.8.6.",
@@ -49,7 +49,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name" : "Kwa Kalvari",
+	  "title" : "Kwa Kalvari",
 	  "composer": "Daniel Brink Towner",
 	  "author": "William Reed Newell",
 	  "meter" : "8.6.8.6.",
@@ -73,7 +73,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name":"Ndiyo dhamana",
+	  "title":"Ndiyo dhamana",
 	  "composer": "Phoebe Palmer Knapp",
 	  "author": "Fanny Jane Crosby",
 	  "meter" : "8.6.8.6.",
@@ -97,7 +97,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Wamwendea Yesu kwa kusafiwa",
+	  "title": "Wamwendea Yesu kwa kusafiwa",
 	  "composer": "Elisha Albright Hoffman",
 	  "author": "Elisha Albright Hoffman",
 	  "meter" : "8.6.8.6.",
@@ -121,7 +121,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name" : "Nasikia kuitwa",
+	  "title" : "Nasikia kuitwa",
 	  "composer": "John Thomas Grape",
 	  "author": "Elvina Mable Reynolds Hall",
 	  "meter" : "8.6.8.6.",
@@ -145,7 +145,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name" : "Mbele ninaendelea",
+	  "title" : "Mbele ninaendelea",
 	  "composer": "Charles Hutchinson Gabriel",
 	  "author": "Johnson Oatman Jr",
 	  "meter" : "8.6.8.6.",
@@ -169,7 +169,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Salama Moyoni",
+	  "title": "Salama Moyoni",
 	  "composer": "Philip Paul Bliss",
 	  "author": "Horatio Gates Spafford",
 	  "meter" : "8.6.8.6.",
@@ -193,7 +193,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Nitwae hivi nilivyo",
+	  "title": "Nitwae hivi nilivyo",
 	  "composer": "William Batchelder Bradbury",
 	  "author": "Charlotte Elliott",
 	  "meter" : "8.6.8.6.",
@@ -217,7 +217,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Bwana Mungu nashangaa kabisa",
+	  "title": "Bwana Mungu nashangaa kabisa",
 	  "composer": "Swedish Folk Melody",
 	  "author": "Witness Lee",
 	  "meter" : "8.6.8.6.",
@@ -241,7 +241,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Njoni tumuabudu",
+	  "title": "Njoni tumuabudu",
 	  "composer": "John Francis Wade's Cantus Diversi",
 	  "author": "John Francis Wade",
 	  "meter" : "8.6.8.6.",
@@ -265,7 +265,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Usinipite mwokozi",
+	  "title": "Usinipite mwokozi",
 	  "composer": "William Howard Doane",
 	  "author": "Fanny J Crosby",
 	  "meter" : "8.6.8.6.",
@@ -289,7 +289,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Mwamba wenye imara",
+	  "title": "Mwamba wenye imara",
 	  "composer": "Thomas Hastings",
 	  "author": "Augustus Montague Toplady",
 	  "meter" : "8.6.8.6.",
@@ -313,7 +313,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Mteteeni Yesu",
+	  "title": "Mteteeni Yesu",
 	  "composer": "George James Webb",
 	  "author": "George Duffield",
 	  "meter" : "8.6.8.6.",
@@ -337,7 +337,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Kumtegemea Mwokozi",
+	  "title": "Kumtegemea Mwokozi",
 	  "composer": "William James Kirkpatrick",
 	  "author": "Louisa M. R. Stead",
 	  "meter" : "8.6.8.6.",
@@ -361,7 +361,7 @@
 	},
 	{
 	  "hymn_code":"513132165",
-	  "name": "Sioshwi dhambi zangu",
+	  "title": "Sioshwi dhambi zangu",
 	  "composer": "Robert Lowry",
 	  "author": "Robert Lowry",
 	  "meter" : "8.6.8.6.",
