@@ -1,0 +1,28 @@
+{
+  "results": [
+      {
+        "definition": "a representative form or pattern",
+        "partOfSpeech": "noun",
+        "synonyms": [
+          "model"
+        ],
+      },
+      {
+        "definition": "something to be imitated",
+        "partOfSpeech": "noun",
+        "synonyms": [
+          "exemplar",
+          "good example",
+          "model"
+        ]
+      },
+      {
+        "definition": "an occurrence of something",
+        "partOfSpeech": "noun",
+        "synonyms": [
+          "case",
+          "instance"
+        ],
+      }
+  ]
+}  
